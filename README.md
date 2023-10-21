@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcos Paulo 👋
 
 - 🔭 No momento estou trabalhando em projetos pessoais para aprimorar meus conhecimentos.
-- 🌱 Estudando JavaScript, NodeJs, React.
+- 🌱 Estudando Typescript, React e Nextjs.
 - 📫 Email pessoal: marcospaulosousa48@gmail.com
 - 🔍 Linkedin: www.linkedin.com/in/marcoss-paulo
 
