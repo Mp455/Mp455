@@ -10,6 +10,7 @@
 - 🌱 Estudando Typescript, React e Nextjs.
 - 📫 Email pessoal: marcospaulosousa48@gmail.com
 - 🔍 Linkedin: www.linkedin.com/in/marcoss-paulo
+- 🆓 Meu portfólio: https://mpdev-portfolio.vercel.app/
 
 ##
 
