@@ -6,7 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Marcos+Paulo;Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭 No momento estou sou Desenvolvedor Front-end Jr em ![Elevcode](https://elevcode.com/).
+- 🔭 No momento estou sou Desenvolvedor Front-end Jr em ![![image](https://github.com/Mp455/Mp455/assets/107141369/771606da-a552-4915-b44b-b5d0eb9c6d3e)
+](https://elevcode.com/).
 - 🌱 Estudando Typescript, React e Nextjs.
 - 📫 Email pessoal: marcospaulosousa48@gmail.com
 - 🔍 Linkedin: www.linkedin.com/in/marcoss-paulo
