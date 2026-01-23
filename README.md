@@ -15,7 +15,7 @@ Meu nome é Marcos Paulo. Atualmente, moro em Belém, Pará, Brasil e meu objeti
 - 🎂 **Idade:** 24
 - 📍 **Localização:** Belém - PA, Brasil
 - 💻 **Stack:** React - Next.js - Typescript - TailwindCSS  
-- 📚 **Aprendizado Atual:** Next.js, React Query, React
+- 📚 **Aprendizado Atual:** Node.js, Banco de Dados , Nest.js
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - UNAMA (Universidade da Amazônia) 
 
 ## 😎 Curiosidades sobre Mim
